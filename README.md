@@ -1,6 +1,8 @@
-# DoraHacks 7.19 ~ 7.21
+# OpenHealth (DoraHacks 7.19 ~ 7.21)
 
-Author: Qibing Li, Tianyao Gao, Zepei Lin, Bing W, Hao Ying
+以患者为中心的医疗数据隐私共享平台  
+团队: 李其柄、高天尧、林泽培、王兵、应昊  
+联系人: [@QibingLee](https://github.com/QibingLee) | [qblee@zju.edu.cn](mailto:qblee@zju.edu.cn) |
 
 ## 项目介绍
 
